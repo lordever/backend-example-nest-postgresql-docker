@@ -25,4 +25,4 @@
 
 # User role diagram
 
-![User Role Diagram]("helpers/pictures/User role diagram.png")
+![User Role Diagram](/helpers/pictures/User%20role%20diagram.png)
